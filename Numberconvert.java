@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Numberconvert {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int num;
 		String [] numbers={"One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten"};
         Scanner s = new Scanner(System.in);
